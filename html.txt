@@ -1,0 +1,56 @@
+<body>
+  <header>
+    <a href="#" class="logo">My Website</a>
+    <nav>
+      <ul class="nav">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <div class="main-img">
+      <img src="https://picsum.photos/id/1018/400/400" alt="Main Image 1" class="main-img-item active" />
+      <img src="https://picsum.photos/id/1019/400/400" alt="Main Image 2" class="main-img-item" />
+      <img src="https://picsum.photos/id/1020/400/400" alt="Main Image 3" class="main-img-item" />
+    </div>
+
+    <div class="main-text">
+      <h1>Welcome to My Website</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ultrices enim, sit amet euismod
+        diam aliquam quis.</p>
+      <a href="#" class="btn">Learn More</a>
+    </div>
+    
+    <div class="arrow arrow-left">&#8249;</div>
+    <div class="arrow arrow-right">&#8250;</div>
+  </main>
+
+  <section class="testimonials">
+    <div class="container">
+      <h2>Testimonials</h2>
+
+      <div class="testimonial-container">
+        <div class="testimonial">
+          <img src="https://picsum.photos/id/104/150/150" alt="Testimonial 1" class="testimonial-img" />
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ultrices enim, sit amet euismod diam
+            aliquam quis.</p>
+        </div>
+
+        <div class="testimonial">
+          <img src="https://picsum.photos/id/1068/150/150" alt="Testimonial 2" class="testimonial-img" />
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ultrices enim, sit amet euismod diam
+            aliquam quis.</p>
+        </div>
+
+        <div class="testimonial">
+          <img src="https://picsum.photos/id/1074/150/150" alt="Testimonial 3" class="testimonial-img" />
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ultrices enim, sit amet euismod diam
+            aliquam quis.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</body>
